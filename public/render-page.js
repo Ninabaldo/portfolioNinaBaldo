@@ -31929,7 +31929,7 @@ const Footer = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     src: socialLink.img,
     alt: "icons"
-  })))), "Made With ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("icon", null, "\u2764"), " by Nina"))));
+  })))), "Made With ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("icon", null, "\u2764\uFE0F"), " by Nina"))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Footer);
@@ -32627,7 +32627,7 @@ __webpack_require__.r(__webpack_exports__);
   //   Promotion Section --------------------------
   // End Promotion Section -----------------
   //   Contact Section --------------
-  contactSubHeading: "Let's create your next experience together",
+  contactSubHeading: "Let's create something you are sure to love",
   social: [// Add Or Remove The Link Accordingly
   {
     img: _images_github_svg__WEBPACK_IMPORTED_MODULE_6___default.a,

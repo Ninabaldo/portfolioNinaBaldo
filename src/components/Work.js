@@ -29,6 +29,7 @@ const Work = () => {
         </div>
       </div>
     </div>
+    
   )
 }
 
